@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.light {
+    --defaultColor: #eeeeee;
+    --brandColor: #202023;
+    --secondColor: #4f4d4a;
+  }
+
+  .dark {
+    --defaultColor: #202023;
+    --brandColor: #eeeeee;
+    --secondColor: #f5d496;
+  }
+
