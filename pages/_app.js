@@ -6,7 +6,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Next JS Theme Switche</title>
+        <title>Next JS Theme Switcher</title>
         <meta name="description" content="Next JS Theme Switcher App" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
